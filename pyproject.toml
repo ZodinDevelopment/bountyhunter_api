@@ -8,6 +8,14 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+flask = "^2.2.2"
+flask-sqlalchemy = "^3.0.3"
+flask-migrate = "^4.0.4"
+flask-login = "^0.6.2"
+flask-mail = "^0.9.1"
+flask-bootstrap = "^3.3.7.1"
+flask-wtf = "^1.1.1"
+flask-moment = "^1.0.5"
 
 [tool.poetry.dev-dependencies]
 
